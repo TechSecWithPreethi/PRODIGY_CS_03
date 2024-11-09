@@ -28,6 +28,6 @@ def check_password_strength(password):
     else:
         return "\n".join(feedback)
 
-# Example usage
+# Example usage 
 password = input("Enter your password: ")
 print(check_password_strength(password))
