@@ -38,5 +38,5 @@ Input: SecurePass123! (strong password)
 Output:
 Strong password! Well done!
 
-# final thoughts
+# Final thoughts
 This project/task can serve as a standalone security tool or be integrated into applications requiring user account setup, helping to enforce password strength policies and improve overall user account security.
